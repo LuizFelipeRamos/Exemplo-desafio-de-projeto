@@ -1,0 +1,49 @@
+<html>  
+    <head>
+        <title >MEU PRIMEIRO SITE</title>
+    </head>
+    <body>
+        <h1 id="inicio"><strong>O que são heading tags?</strong></h1>
+        <hr />
+        <H2>Índice</H2>
+        <ul>
+            <li><a href="#Tags"> O que são heading tags?</a></li>
+            <li><a href="#Heading"> Como visualizar as Heading Tags</a></li>
+            <li><a href="#CSS"> Heading Tags e o CSS</a></li>
+        </ul>
+        <h2 id="Tags">O que são heading tags?</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>As Heading Tags (H1, H2, H3, ...) são recursos de programação HTML utilizados para destacar títulos e subtítulos de uma página. Elas são utilizadas na hierarquização e estrutura de uma página.</p>
+        <p>Elas facilitam a leitura, entendimento e até mesmo a indexação do conteúdo e sua utilização é bem mais simples do que parece.</p>
+
+        <h3>H1 Cabeçalho</h3>
+        <p>H1 é a abreviação do inglês para Header 1, ou Cabeçalho 1, logo, o mais importante dos Headers.</p>
+        <p>Conceitualmente, o H1 possui um destaque maior, uma fonte maior, e é geralmente o elemento de texto mais visível da página. </p>
+        <p>Assim como nos negritos de uma página e o Title, a tag H1 é um importante elemento que o Google utiliza para determinar o principal assunto abordado em uma página, visto que o título de uma página conceitualmente define seu conteúdo.</p>
+
+        <img src="https://www.seomarketing.com.br/wp-content/uploads/2021/03/h1-google-chrome.jpg">
+        <p>Note que no caso acima, não foi utilizada a palavra-chave Google Chrome no h1. Em um projeto de SEO, o título seria reescrito para algo como "Google Chrome - Navegador com rapidez", caso a palavra-chave trabalhada nessa página fosse o nome do navegador.</p>
+        <p>Recomendamos ainda utilizar apenas uma H1 por página, sempre focando na palavra-chave principal. Isso dá um claro indício ao Google de qual é a palavra-chave mais importante da página.</p>
+
+        <h3>h2, h3, h4, ...</h3>
+        <p>As demais Heading Tags, como H2 e H3, são geralmente utilizadas como subtítulos de uma página. </p>
+        <p>Em SEO, são um excelente recurso para incluir palavras-chave complementares, ou seja, variações e complementos da palavras-chave principal que não terão uma página exclusiva para ela, seja por baixo volume de pesquisa ou por simplesmente não se encaixar no conceito do site.</p>
+
+        <h2 id="Heading">Como visualizar as Heading Tags</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>O Plugin do Chrome HeadingsMap, foi o que utilizamos para verificar o H1 do Google Chrome. Ele destaca a posição das diversas Heading Tags na página.</p>
+
+        <h2 id="CSS">Heading Tags e o CSS</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+    
+        <p>As Heading Tags são geralmente utilizadas por programadores com estilos pré-determinados no CSS, a folha de estilos do site (se você não sabe o que é CSS, pergunte ao programador web mais próximo). </p>
+        <p>Dessa forma, os H1s possuem normalmente o mesmo tamanho, cor e fonte em todo o site. O mesmo vale para as demais Heading Tags. Isso acaba causando uma desconexão entre as necessidades de otimização de um site para Google e as características visuais desse site. Vejamos por exemplo a página do site SEMRush.</p>
+
+        <img src="https://www.seomarketing.com.br/wp-content/uploads/2021/03/h1-sem-rush.jpg">
+
+        <p>Do ponto de vista visual, as Heading Tags foram utilizadas corretamente. Do ponto de vista de SEO, os textos contidos em H1 poderiam ser melhor trabalhados, e não seguem o padrão utilizado em SEO. </p>
+        <p>Para contornar esse fato, é possível criar diferentes estilos para a mesma Heading Tag. Um bom programador SEO deve conseguir aliar as características visuais de um site às necessidades de SEO da página.</p>
+
+
+       </body>
+</html>
